@@ -4,15 +4,13 @@ Landing page with HTML and CSS only, connected to mailchimp via href for email c
 
 
 
-# DEPENDENCIES:
+# Dependencies:
 
-• Bootstrap
+• Bootstrap https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
-  • https://getbootstrap.com/docs/5.3/getting-started/introduction/
+• Mailchimp https://mailchimp.com/ (create a landing page, and add href URL to HTML code)
 
-• Mailchimp (create a landing page, and add href URL to HTML code)
-
-  • https://mailchimp.com/
+• Landing page image (header.jpg attached)
 
 • style.css (file attached)
 
